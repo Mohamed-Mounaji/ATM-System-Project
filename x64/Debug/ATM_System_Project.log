@@ -1,0 +1,4 @@
+﻿  ATM_System_Project.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course8Project\ATM_System_Project\ATM_System_Project.cpp(61,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course8Project\ATM_System_Project\ATM_System_Project.cpp(54): warning C4715: 'ReadNumInRange': not all control paths return a value
+  ATM_System_Project.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\ProjectsFiles\Course8Project\ATM_System_Project\x64\Debug\ATM_System_Project.exe
